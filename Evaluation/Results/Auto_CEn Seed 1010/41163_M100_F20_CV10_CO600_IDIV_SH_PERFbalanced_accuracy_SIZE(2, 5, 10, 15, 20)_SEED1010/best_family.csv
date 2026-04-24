@@ -1,0 +1,4 @@
+,rid,algorithm,configuration,runtime,balanced_accuracy,accuracy,f1_macro,roc_auc_ovo,roc_auc_ovr
+0,1,MAMV,"{'Div:algorithm': 'NODIV', 'ENS:size': 10, 'Enc:algorithm': 'NOEnc', 'Fe:algorithm': 'NOFE', 'Pre:algorithm': 'NOPRE', 'algorithm': 'MAMV'}",2.524099349975586,0.9770718455448714,0.977,0.9770779736452427,0.9856455341887251,0.9856087892711595
+1,2,MLE,"{'Div:algorithm': 'NODIV', 'ENS:size': 10, 'Enc:algorithm': 'NOEnc', 'Fe:algorithm': 'NOFE', 'Pre:algorithm': 'NOPRE', 'algorithm': 'MLE'}",5.81962251663208,0.9779580722396313,0.978,0.9780799604733078,0.9862215096367272,0.986217850013092
+2,3,WV,"{'Div:algorithm': 'NODIV', 'ENS:size': 10, 'Enc:algorithm': 'NOEnc', 'Fe:algorithm': 'NOFE', 'Pre:algorithm': 'NOPRE', 'algorithm': 'WV', 'WV:scorer': 'macro_recall', 'WV:weighting': 'simple'}",1.9139735698699951,0.9815884762412044,0.9815,0.981589132662539,0.9884654738384819,0.9884243565033712
